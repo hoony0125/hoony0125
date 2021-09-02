@@ -1,29 +1,21 @@
-
-
- Hi there! 👋 Welcome to my Github! 
+Hi there! 👋 Welcome to my GitHub! 
 
 I'm studying to be a Web Developer.👨‍💻
 
 
 
-🎈***Me***🎈
-
-<p align="left">
-	<a href="mailto:kkh8748154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
 ---
 
- 📚***What I'm learning.***📚			
+####  📚***What I'm learning***📚			
 
 <p align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/>
 </p>
 
-----
 
-##### 💻***What I've used. ⌨
+
+#### 💻***What I've used*** ⌨
 
 <p align="left">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=html5&logoColor=white"/>
@@ -33,9 +25,9 @@ I'm studying to be a Web Developer.👨‍💻
     <img src="https://img.shields.io/badge/Heroku-430098?style=round-square&logo=Heroku&logoColor=white"/>
 </p>
 
----
 
-##### 🛠***Tools***🛠	
+
+#### 🛠***Tools***🛠	
 
 <p align="left">
 	<img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
@@ -45,6 +37,11 @@ I'm studying to be a Web Developer.👨‍💻
 
 
 
+#### 🎈***Me***🎈	
+
+<p align="left">
+	<a href="mailto:kkh8748154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ##### 										
 
