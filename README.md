@@ -6,7 +6,7 @@ I'm studying to be a Web Developer.👨‍💻
 
 ---
 
-####  📚***What I'm learning***📚			
+####  📚**What I'm learning**📚			
 
 <p align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
@@ -15,7 +15,7 @@ I'm studying to be a Web Developer.👨‍💻
 
 
 
-#### 💻***What I've used*** ⌨
+#### 💻**What I've used** ⌨
 
 <p align="left">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@ I'm studying to be a Web Developer.👨‍💻
 
 
 
-#### 🛠***Tools***🛠	
+#### 🛠**Tools**🛠	
 
 <p align="left">
 	<img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
@@ -37,7 +37,7 @@ I'm studying to be a Web Developer.👨‍💻
 
 
 
-#### 🎈***Me***🎈	
+#### 🎈**Me**🎈	
 
 <p align="left">
 	<a href="mailto:kkh8748154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
