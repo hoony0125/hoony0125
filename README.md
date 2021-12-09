@@ -49,5 +49,7 @@ I'm studying to be a Web Developer.👨‍💻
 	<a href="mailto:kkh8748154@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-##### 										
-
+####	
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoony0125&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoony0125&layout=compact&theme=tokyonight)
+#####
